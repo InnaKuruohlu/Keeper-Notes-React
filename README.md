@@ -12,7 +12,7 @@ Features:
 
 
 
-Thechnologies Used:
+Technologies Used:
 
 - React 19
 - React DOM
